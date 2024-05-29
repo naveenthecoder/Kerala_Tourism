@@ -14,4 +14,3 @@ Contains :
 5. 14 Individual Page for each district (Picture, short description, 2-5 hot tourist spots with photos and name)
 Total: 19 Pages
 
-(Made as an assignment for ICT Academy's FSD programme.)
